@@ -4,4 +4,4 @@ Suite Setup    OpenBrowser    about:blank    chrome
 
 *** Test Cases ***
 Jared's Example
-    Log To Console    Horay for testing!
+    Log To Console    We love CRT!
